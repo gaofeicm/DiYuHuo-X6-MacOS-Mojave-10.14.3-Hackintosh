@@ -1,5 +1,7 @@
 # DiYuHuo-X6-MacOS-Mojave-10.14.3-Hackintosh
 
+火影地狱火X6 10.13.6（17G2112）版本黑苹果EFI
+
 ## 主要硬件预览
 *    H370 + i7-8750H + GTX1060 + ACL269 + BCM94352Z)
 *   `主板` H370（USB2.0\*4 + USB3.1\*2 + TYPE-C\*1:非全功能 + HDMI\*1 + RJ45\*1）
