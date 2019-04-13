@@ -2,7 +2,7 @@
 
 ## 主要硬件预览
 *    H370 + i7-8750H + GTX1060 + ACL269 + BCM94352Z)
-*   `主板` H370（USB2.0*4 + USB3.1*2 + TYPE-C*1:非全功能 + HDMI*1 + RJ45）
+*   `主板` H370（USB2.0\*4 + USB3.1\*2 + TYPE-C\*1:非全功能 + HDMI\*1 + RJ45\*1）
 *   `CPU` i7-8750H（6C 12T）
 *   `核显` Intel UHD Graphics 630
 *   `独显` GTX1060（三星6GB）
