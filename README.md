@@ -1,5 +1,13 @@
-##火影地狱火X6(H370 + i7-8750H + GTX1060 + ACL269 + BCM94352Z)
+# DiYuHuo-X6-MacOS-Mojave-10.14.3-Hackintosh
 
+##主要硬件预览
+    H370 + i7-8750H + GTX1060 + ACL269 + BCM94352Z)
+*   `主板` H370（USB2.0*4 + USB3.1*2 + TYPE-C*1:非全功能 + HDMI*1 + RJ45）
+*   `CPU` i7-8750H（6C 12T）
+*   `核显` Intel UHD Graphics 630
+*   `独显` GTX1060（三星6GB）
+*   `声卡` ACL269
+*   `无线网卡` 联想BCM94352Z
 
 *   ###   驱动了
 *   `核显`（UHD 630,VRAM=2048M）
@@ -21,6 +29,10 @@
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流，但出现的任何问题，我不负责
 
 * 邮件(gaofeicm#gmail.com, 把#换成@)
+
+## 其他系统版本
+* MacOS 10.13.6（17G2112） : https://github.com/gaofeicm/DiYuHuo-X6-MacOS-High-Sierra-10.13.6-17G2112-Hackintosh
+* MacOS 10.13.6（17G5019） : https://github.com/gaofeicm/DiYuHuo-X6-MacOS-High-Sierra-10.13.6-Hackintosh
 
 ##感激
 感谢以下的项目,排名不分先后
